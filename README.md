@@ -305,6 +305,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-plugin-year](https://github.com/8hobbies/vite-plugin-year) - Inserts the current year to the HTML file during build. Useful for adding a copyright year to the HTML file.
 - [vite-plugin-llms](https://github.com/saschaseniuk/vite-plugin-llms) - Integration for the llms.txt specification supporting AI optimized content alongside application routes.
 - [`module-federation/vite`](https://github.com/module-federation/vite) - Official Module Federation integration, enabling dynamic remote module loading.
+- [@oddsquad/vite-plugin-lit](https://github.com/oddcelot/vite-plugin-lit) - Hot-swaps Lit components on edit without losing their state, plus shadow-root CSS helpers and a DevTools panel.
 
 #### Loaders
 
@@ -354,7 +355,6 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-plugin-static-filehash](https://github.com/MrQinYQ/vite-plugin-static-filehash) - It can help the program improve the cache hit rate.
 - [vite-plugin-singlefile-compression](https://github.com/bddjr/vite-plugin-singlefile-compression) - Compress all assets and embeds them into `dist/index.html`, making it convenient to share as a single HTML file.
 - [vite-plugin-builder](https://github.com/yracnet/vite-plugin-builder) - Enable dual compilation for Server-Side Rendering (SSR) and Client-Side Rendering (CSR).
-- [@oddsquad/vite-plugin-lit](https://github.com/oddcelot/vite-plugin-lit) - Hot-swaps Lit components on edit without losing their state, plus shadow-root CSS helpers and a DevTools panel.
 
 #### Transformers
 
